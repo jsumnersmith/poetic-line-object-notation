@@ -1,5 +1,5 @@
 ![plon](https://raw.githubusercontent.com/jsumnersmith/poetic-line-object-notation/master/plon.png 'plon Logo')
-## A protocol for annotating poetic lines as JSON-like data.
+#### A protocol for annotating poetic lines as JSON-like data.
 
 ## Precis
 The goal of this protocol is to define how poetic lines might be represented as JSON-like data structures. This protocol is speculative and therefore will attempt to use examples as much as possible.
