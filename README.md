@@ -1,10 +1,13 @@
 ![plon](https://raw.githubusercontent.com/jsumnersmith/poetic-line-object-notation/master/plon.png 'plon Logo')
-#### A protocol for annotating poetic lines as JSON-like data.
+*A protocol for annotating poetic lines as JSON-like data.*
 
-## Precis
+
+## This Document is an Early Draft
+
+### Precis
 The goal of this protocol is to define how poetic lines might be represented as JSON-like data structures. This protocol is speculative and therefore will attempt to use examples as much as possible.
 
-## Simple Example
+### Simple Example
 Take a short example such as Ezra Pound's "In a Station of the Metro." As simple text, it reads as follows:
 ```text
 The apparition of these faces in the crowd;
