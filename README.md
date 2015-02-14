@@ -1,4 +1,4 @@
-(https://raw.githubusercontent.com/jsumnersmith/poetic-line-object-notation/master/plon.png 'plon Logo')
+![plon](https://raw.githubusercontent.com/jsumnersmith/poetic-line-object-notation/master/plon.png 'plon Logo')
 ## A protocol for annotating poetic lines as JSON-like data.
 
 ## Precis
